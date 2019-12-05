@@ -1,0 +1,1 @@
+cmd_/home/shaoguoliang/Github/Linux_scull/Basic/code/scull.o := ld -m elf_x86_64 -z max-page-size=0x200000   -r -o /home/shaoguoliang/Github/Linux_scull/Basic/code/scull.o /home/shaoguoliang/Github/Linux_scull/Basic/code/main.o 

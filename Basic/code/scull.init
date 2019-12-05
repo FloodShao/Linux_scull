@@ -1,0 +1,6 @@
+#!/bin/sh
+
+DEVICE="scull"
+SECTION="misc"
+
+#The list of filenames and minor numbers: $PREFIX is prefixed to all names

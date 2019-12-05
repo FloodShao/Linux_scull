@@ -1,0 +1,1 @@
+cmd_/home/shaoguoliang/Github/Linux_scull/Basic/code/scull.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/shaoguoliang/Github/Linux_scull/Basic/code/scull.ko /home/shaoguoliang/Github/Linux_scull/Basic/code/scull.o /home/shaoguoliang/Github/Linux_scull/Basic/code/scull.mod.o ;  true
